@@ -1,7 +1,3 @@
-Here's an updated **README.md** to reflect the modular file structure with separate folders for `FTP` and `custom_git`, including their `__init__.py` files.
-
----
-
 # **GitSync**  
 *Your all-in-one solution for version control and file sharing in hackathons!*
 
